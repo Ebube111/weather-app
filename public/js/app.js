@@ -1,4 +1,3 @@
-console.log("client side in javascript is actually running ")
 
 
 const weatherForm = document.querySelector('form')
